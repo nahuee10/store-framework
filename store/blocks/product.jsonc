@@ -29,15 +29,16 @@
       },
     "children": [
       "product-name",
-      {"product-price": {
-        "props": {
-          "showSavings": true,
-          "showListPrice": true
-        }
-      }
-    },
+      "product-price",
       "product-name",
       "buy-button"
     ]
+  },
+
+  "product-price": {
+    "props": {
+      "showSavings": true,
+      "showListPrice": true
+    }
   }
 }
