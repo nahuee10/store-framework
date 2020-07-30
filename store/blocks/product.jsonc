@@ -66,5 +66,13 @@
       "sku-selector",
       "product-quantity"
     ]
+  },
+
+  "sku-selector": {
+    "props": {
+      "initialSelection": "empty",
+      "showValueForVariation": "image",
+      "showVariationLabels": true
+    }
   }
 }
