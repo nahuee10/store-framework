@@ -11,7 +11,7 @@
     ]
   },
 
-  "serch-result-layout.desktop": {
+  "search-result-layout.desktop": {
     "children": [
       "breadcrumb.search",
       "search-title.v2",
