@@ -1,0 +1,25 @@
+{
+   "store.custom#landing": {
+      "blocks": [
+         "image#landingbanner",
+         "search-result-layout.customQuery"
+      ]
+   },
+
+   "image#landingbanner": {
+      "props": {
+         "src": "https://www.promegal.com.gt/portal/wp-content/uploads/2015/11/banner_todos.jpg",
+         "minWidth": "100%"
+      }
+   },
+
+   "search-result-layout.customQuery": {
+      "props": {
+         "querySchema": {
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "maxItemsPerPage": 8
+         }
+      }
+   }
+}
