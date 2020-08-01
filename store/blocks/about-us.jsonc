@@ -48,10 +48,10 @@
       ]
     },
 
-    "tab-list": {
+    "tab-list#home": {
       "children":[
-        "tab-list.item#1",
-        "tab-list.item#2"
+        "tab-list.item#home1",
+        "tab-list.item#home2"
       ]
     },
 
