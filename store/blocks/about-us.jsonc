@@ -2,7 +2,7 @@
    "store.custom#about-us": {
       "blocks": [
          "flex-layout.row#about-us",
-         "tab-layout"
+         "tab-layout#home"
       ]
    },
 
@@ -41,10 +41,10 @@
       }
     },
 
-    "tab-layout": {
+    "tab-layout#home": {
       "children": [
-        "tab-list",
-        "tab-content"
+        "tab-list#home",
+        "tab-content#home"
       ]
     },
 
