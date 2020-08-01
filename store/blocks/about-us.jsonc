@@ -88,7 +88,7 @@
     },
     "tab-content.item#home2": {
       "children": [
-        "rich-text#home2"
+        "iframe"
       ],
       "props": {
         "tabId": "electronics"
