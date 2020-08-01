@@ -128,5 +128,18 @@
         "text": "Cameras"
       }
     }
+  },
+
+
+    "vtex.menu@2.x:menu#categories": {
+      "children": [
+        "menu-item#major-appliances",
+        "menu-item#small-appliances",
+        "menu-item#electronics"
+      ],
+  
+      "props":{
+        "orientation": "horizontal"
+      }
   }
 }
